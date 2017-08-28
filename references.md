@@ -2,8 +2,13 @@
 
 This is a list of material that participants might find useful 
 
+## Projects
+
+* CHAOSS: https://wiki.linuxfoundation.org/oss-health-metrics/start
+
 ## Tools
 
+* Software Assessment Framework: https://github.com/softwaresaved/software-assessment-framework/
 * Depsy: http://depsy.org/
 * Software Discovery Dashboard: https://github.com/mozillascience/software-discovery-dashboard
 * CodeMeta: https://github.com/codemeta/codemeta
