@@ -90,8 +90,12 @@ and attempts to apply it to one of a set of pre-chosen pieces of research softwa
   a. scipy
   b. spyder
   c. pycse
-  d. R.utils
-  
+
+Alternatively, compare software projects which have:
+  * same maturity, different sizes
+  * same size, different maturity
+  * similar functionality, different domains
+  * similar number of core / non-core developers
   
 #### Offline rating exercise ####
 
