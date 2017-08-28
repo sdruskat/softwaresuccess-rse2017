@@ -1,6 +1,6 @@
-# MozFest2016
+# Software Success Slide Set
 
-Slides for MozFest session on How successful is my (open use) scientific software?
+Slides for RSE2017 session on "How successful is my software?"
 
 Contributors:
   * Neil P. Chue Hong
