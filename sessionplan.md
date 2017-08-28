@@ -1,21 +1,17 @@
 
 # Session plan
 
-(Catherine: I think it might be a good idea to assign rough timings as I think this current plan may take longer than the alloted session)
-
 ## Facilitators
 
 * Neil Chue Hong, Software Sustainability Institute
-* Catherine Jones, STFC
-* Andrew Nesbitt, Libraries.io
 
-## Introductions *(10 minutes)*
+## Introductions *(15 minutes)*
 
 ### Summary
 
 General introductions from facilitators *(5 minutes)*
 
-Participant introductions *(5 minutes)*
+Participant introductions *(10 minutes)*
 
 Each person says:
 * their name
@@ -25,31 +21,33 @@ Each person says:
 Note: if there are a lot of people attending the session (>10) ask them to split 
 into smaller groups and do the introductions within the groups.
 
+Get them to record in meeting notes shared document.
+
 ### Learning Goal
 
 1. Understand the background of the attendees and how you relate to them.
 
 
-## Activity - Identifying Successful Software *(10 minutes)*
+## Activity - Identifying Successful Software *(15 minutes)*
 
 ### Summary
 
 1. Introduce exercise and break into pairs. *(1 minute)*
-2. One person in the pair: *(3 minutes)*
+2. One person in the pair: *(5 minutes)*
   * Chooses a piece of research software / scientific software they think is successful
   * Describes to their partner what characteristics or measures make them think it is successful
-3. Swap and do they same for the other person in the pair *(3 minutes)*
-4. Discuss within the pair whether they had the same ways of identifying successful software, and where they differed. *(3 minutes)*
+3. Swap and do they same for the other person in the pair *(5 minutes)*
+4. Discuss within the pair whether they had the same ways of identifying successful software, and where they differed. *(4 minutes)*
 
 ### Learning Goal
 
 1. Understanding how different people judge the success of software
 
-## Discussion - How Do People Identify Success *(10 minutes)*
+## Discussion - How Do People Identify Success *(15 minutes)*
 
 ### Summary
 
-A group discussion of how people found this exercise, what they noticed in discussing with their partner. *(10 minutes)*
+A group discussion of how people found this exercise, what they noticed in discussing with their partner. *(15 minutes)*
 
 Guided by the following questions:
 * Were there any characteristics that everyone in your group thought were important?
@@ -64,7 +62,7 @@ Guided by the following questions:
 2. Reflect on the process 
 
 
-## Input - What are existing models of measuring success *(10 minutes)*
+## Input - What are existing models of measuring success *(20 minutes)*
 
 ### Summary
 
@@ -77,7 +75,7 @@ Note: Cut down this section if running over, and point people to material in sli
 1. Provide a grounding in existing work in this area to participants.
 2. Understand where to get further information.
 
-## Deepening - Measuring Software Exercise *(15 minutes)*
+## Deepening - Measuring Software Exercise *(25 minutes)*
 
 ### Summary
 
@@ -106,9 +104,11 @@ and attempts to apply it to one of a set of pre-chosen pieces of research softwa
 1. Understand how to choose appropriate measures and create sensible metrics.
 2. Gain an understanding of how easy it is to use particular measures, both in terms of collection and interpretation.
 
-## Synthesis - Summarising what we've learned *(5 minutes)*
+## Synthesis - Summarising what we've learned *(15 minutes)*
 
 ### Summary
+
+Give an overview of how other rating systems rate different pieces of software.
 
 Talk about what happened in the session, some of the results of the discussion, what issues were discussed, 
 what solutions were made, and give some more time for participants to ask more questions before the session is closed.
