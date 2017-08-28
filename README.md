@@ -1,4 +1,4 @@
-# MozFest2016
+# Software Success Slide Set
 
 Slides for RSE2017 session on "How successful is my software?"
 
