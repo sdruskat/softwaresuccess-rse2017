@@ -5,22 +5,35 @@ This is a list of material that participants might find useful
 ## Projects
 
 * CHAOSS: https://wiki.linuxfoundation.org/oss-health-metrics/start
+* FORCE11 Software Citation: https://www.force11.org/group/software-citation-implementation-working-group
+* Software Citation in Bioinformatics study: https://github.com/jameshowison/softcite
 
 ## Tools
 
 * Software Assessment Framework: https://github.com/softwaresaved/software-assessment-framework/
 * Depsy: http://depsy.org/
+* Libraries.io: https://libraries.io/
+* Grimoire Lab: http://grimoirelab.github.io/ 
+* RepoReaper: https://github.com/RepoReapers/reaper
 * Software Discovery Dashboard: https://github.com/mozillascience/software-discovery-dashboard
 * CodeMeta: https://github.com/codemeta/codemeta
 * Code as a Research Object: https://science.mozilla.org/projects/codemeta
 * ContentMine: http://contentmine.org/
 * ScholarNinja: https://github.com/ScholarNinja/software_metadata 
 * Lagotto: http://www.lagotto.io
-* Libraries.io: https://libraries.io/
+
+## Repositories containing scientific software
+
 * SciCrunch: https://scicrunch.org
 * figshare: https://figshare.com/
 * OSF: https://osf.io/
 * Zenodo: https://zenodo.org/
+
+## Open Source Software datasets
+
+* FLOSSmole: https://flossmole.org/
+* GHTorrent: http://ghtorrent.org/
+* Software Heritage: https://www.softwareheritage.org/
 
 ## Models of representing success
 
