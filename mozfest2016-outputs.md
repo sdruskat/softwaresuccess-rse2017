@@ -1,5 +1,5 @@
 # Outputs from the discussion sessions
-Catherine Jones, 7th November
+Catherine Jones, 7th November 2016
 
 ## Session 1: What makes software successful?
 
